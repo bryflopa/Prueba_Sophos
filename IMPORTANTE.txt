@@ -1,0 +1,4 @@
+-----
+- Como base de datos utilice Mysql ya que tengo mas experiencia con esta
+- Por motivos de facilidad los varios datos los deje configurables desde el "Config" pero el deber ser es que esten en el orquestador
+para mayor seguridad
